@@ -1,7 +1,7 @@
 <h1 align="center">
   <span style="background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
     Hi there! 👋 
-  I'm Mukunda S V
+  I'm <br>Mukunda S V 
   </span>
 </h1>
 
