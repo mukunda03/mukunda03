@@ -7,15 +7,16 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Aspiring+Backend+Developer;Core+Java+|+Spring+Boot+|+MySQL;Currently+Flutter+Dev+|+Transitioning+to+SDE+Role" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Aspiring+Backend+Developer;Core+Java+|+Spring+Boot+|+MySQL" />
 </div>
+
 
 ---
 
 ## 🚀 **About Me**  
 💼 **Flutter Developer @ Optipace Technologies**  
 🎯 **Aiming for Backend Developer Role (Java + Spring Boot)**  
-📍 **Bangalore | Available for SDE Opportunities (5–8 LPA)**  
+📍 **Bangalore | Available for SDE Opportunities **  
 📚 **Learning Spring Boot | System Design | APIs | DSA**
 
 ---
@@ -45,6 +46,8 @@ _(Coming Soon...)_
 
 ---
 
+<!--
+
 ## 📈 **GitHub Stats**
 
 <p align="center">
@@ -54,6 +57,7 @@ _(Coming Soon...)_
 </p>
 
 ---
+-->
 
 ## 📫 **Connect With Me**
 
