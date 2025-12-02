@@ -15,10 +15,9 @@
 ---
 
 ## 🚀 **About Me**  
-💼 **Flutter Developer @ Optipace Technologies**  
-🎯 **Aiming for Backend Developer Role (Java + Spring Boot)**  
+💼 **Flutter Developer @ Optipace Technologies**    
 📍 Bangalore | Available for SDE Opportunities  
-📚 **Learning Spring Boot | System Design | APIs | DSA**
+
 
 ---
 
@@ -26,7 +25,6 @@
 
 ✅ **Languages & Backend:**  
 ![Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ✅ **Frontend & Mobile:**  
