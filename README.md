@@ -1,61 +1,57 @@
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">
-    👋 Hi there! <br>I'm Mukunda S V
+  <span style="background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
+    👋 Hi, I'm Mukunda S V
   </span>
 </h1>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ff6ec4&center=true&vCenter=true&width=700&lines=⚡Flutter+Developer;📱Mobile+App+Developer;💻Dart+|+Flutter+|+Firebase+|+Hive" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=⚡Flutter+Developer;📱Mobile+App+Developer;💻Dart+|+Flutter+|+Firebase" />
 </div>
 
 ---
 
 <div align="center">
 
-## 🌟 About Me  
+## 🚀 About Me
 💼 **Flutter Developer @ Optipace Technologies**  
 📍 Bangalore, India | Open to Mobile App Opportunities  
 
-I build **cross-platform mobile apps** with Flutter & Dart, focusing on **clean UI, smooth UX, and real-world functionality**.  
-I work with **Firebase, Hive, Riverpod**, and love experimenting with **animations, interactive UI, and mobile hacks** 😎✨  
+I create **high-performance, cross-platform mobile apps** using **Flutter & Dart**, focusing on **clean UI, smooth UX, and real-world functionality**.  
+I have hands-on experience with **Firebase, Hive, Riverpod**, and building real-world apps for Android and iOS.  
+
+I enjoy learning new technologies and contributing to projects that solve real-world problems.
 
 ---
 
 ## 🛠 Skills & Tech Stack
 
-### 🖥 Languages & Backend
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📱 Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚡ Tools & Platforms
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
-![Hive](https://img.shields.io/badge/Hive-FF6F61?style=for-the-badge&logo=Hive&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=dart,java,mysql" height="50" />
+  <br/><br/>
+  <!-- Frontend & Mobile -->
+  <img src="https://skillicons.dev/icons?i=flutter,html,css" height="50" />
+  <br/><br/>
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,hive,github,postman" height="50" />
+</div>
 
 ---
 
 ## 📂 Projects
 
 ### 🍽️ Recipe App
-> Flutter app to browse, search, and save recipes.  
-> 🔹 Firebase Authentication & Firestore  
-> 🔹 Favorites & persistent sessions  
+> Flutter app for browsing, searching, and saving recipes.  
+> 🔹 Firebase Authentication & Firestore for user data  
+> 🔹 Favorites and persistent sessions  
 > 🔹 Riverpod state management  
-> 🔹 Clean UI with reusable widgets  
+> 🔹 Clean, responsive UI with reusable widgets  
 > 🔗 [GitHub Repo](https://github.com/mukunda03/recipe_app)
 
 ### 🌤️ Weather App
-> Flutter app showing real-time weather data.  
+> Flutter app showing real-time weather information.  
 > 🔹 REST API integration  
 > 🔹 Animated & interactive UI  
 > 🔹 Dynamic location support  
@@ -63,10 +59,10 @@ I work with **Firebase, Hive, Riverpod**, and love experimenting with **animatio
 
 ### ✅ Todo App
 > Flutter app to manage daily tasks efficiently.  
-> 🔹 Add/edit/delete tasks with Hive  
+> 🔹 Add, edit, delete tasks with Hive database  
 > 🔹 Persistent offline storage  
 > 🔹 Riverpod state management  
-> 🔹 Clean, categorized UI  
+> 🔹 Clean and categorized UI  
 > 🔗 [GitHub Repo](https://github.com/mukunda03/todo_hive_app)
 
 ---
@@ -92,4 +88,6 @@ I work with **Firebase, Hive, Riverpod**, and love experimenting with **animatio
 ---
 
 💥 **Open to Flutter Collaborations | Mobile Development | Full-Time SDE Roles**  
-✨ **Let’s build amazing apps together!** 🚀
+✨ **Let's build amazing apps together!** 🚀
+
+</div>
