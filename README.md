@@ -57,13 +57,6 @@ I enjoy learning new technologies and contributing to projects that solve real-w
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="assets/github-stats.png" alt="GitHub Stats" height="140" />
-</p>
----
-
 ## 📫 Connect With Me
 - 📩 Email: [mukundasv03@gmail.com](mailto:mukundasv03)  
 - 🔗 LinkedIn: [Mukunda S V](https://www.linkedin.com/in/mukunda03)  
