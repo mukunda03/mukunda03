@@ -60,9 +60,7 @@ I enjoy learning new technologies and contributing to projects that solve real-w
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukunda03&show_icons=true&theme=tokyonight" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukunda03&theme=tokyonight" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukunda03&layout=compact&theme=tokyonight" height="140" />
+  <img src="assets/github-stats.png" alt="GitHub Stats" height="140" />
 </p>
 ---
 
